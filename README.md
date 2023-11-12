@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ridho024
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning NodeJs
-- 💞️ I’m looking to collaborate on my project
+- 🚀 I’m looking to collaborate on my project
 
 <!---
 Ridho024/Ridho024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
